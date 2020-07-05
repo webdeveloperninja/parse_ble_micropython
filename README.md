@@ -1,0 +1,1 @@
+# Barse bluetooth service/characteristics
